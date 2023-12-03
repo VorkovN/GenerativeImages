@@ -1,0 +1,7 @@
+.idea/
+venv
+models
+datasets/gtFine
+datasets/leftImg8bit
+datasets/gtFine_color
+datasets/gtFine_mono
