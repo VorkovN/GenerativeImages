@@ -1,0 +1,7 @@
+Size (256, 512); Epochs20; Optimizer: Adam; LR: 0.0005; Momentum: 0.9; Loss: 0.319; Dice Score: 0.908
+Size (256, 512); Epochs20; Optimizer: Adam; LR: 0.005; Momentum: 0.9; Loss: 1.007; Dice Score: 0.662
+Size (256, 512); Epochs20; Optimizer: Adam; LR: 0.0001; Momentum: 0.9; Loss: 0.381; Dice Score: 0.884
+Size (256, 512); Epochs20; Optimizer: SGD; LR: 0.0001; Momentum: 0.9; Loss: 1.616; Dice Score: 0.395
+Size (256, 512); Epochs20; Optimizer: SGD; LR: 0.01; Momentum: 0.9; Loss: 0.630; Dice Score: 0.794
+Size (256, 512); Epochs20; Optimizer: SGD; LR: 0.05; Momentum: 0.9; Loss: 0.357; Dice Score: 0.891
+Size (256, 512); Epochs20; Optimizer: SGD; LR: 0.05; Momentum: 0.95; Loss: 0.338; Dice Score: 0.896
